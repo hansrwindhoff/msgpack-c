@@ -1,4 +1,4 @@
-FIND_PACKAGE (cJSON)
+
 
 LIST (APPEND exec_PROGRAMS
     boundary.c

@@ -1,0 +1,12 @@
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/CMakeFiles/msgpackc.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/CMakeFiles/msgpackc-static.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/CMakeFiles/INSTALL.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/CMakeFiles/ALL_BUILD.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/CMakeFiles/ZERO_CHECK.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/example/CMakeFiles/boundary.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/example/CMakeFiles/lib_buffer_unpack.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/example/CMakeFiles/simple_c.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/example/CMakeFiles/speed_test_uint32_array.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/example/CMakeFiles/speed_test_uint64_array.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/example/CMakeFiles/user_buffer_unpack.dir
+E:/code/xspectrum/github/PlugCamXSpectrum/msgpack/msgpack-c/build/example/CMakeFiles/INSTALL.dir

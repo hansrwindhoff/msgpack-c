@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\xspectrum\github\PlugCamXSpectrum\msgpack\msgpack-c\example\speed_test_uint32_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\xspectrum\github\PlugCamXSpectrum\msgpack\msgpack-c\example\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8FE1550E-DCE8-37A4-937A-D3A0CDFE9EE8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

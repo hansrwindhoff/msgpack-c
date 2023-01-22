@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\code\xspectrum\github\PlugCamXSpectrum\msgpack\msgpack-c\build\CMakeFiles\de46b0cdb5883907b9db18565330f033\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{16E28B40-D0E5-3F13-94C7-3804F4C201D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
